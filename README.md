@@ -2,6 +2,8 @@
 
 Displays pictures from unsplash.com via API (axois) with an AJAX call.
 
+Requires an api key from unsplash.com.
+
 ----
 
 his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
