@@ -6,7 +6,7 @@ Requires an api key from unsplash.com.
 
 ----
 
-his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
